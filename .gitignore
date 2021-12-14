@@ -1,0 +1,5 @@
+venv
+.env
+.idea
+playlist_videos.json
+playlists_data.json
